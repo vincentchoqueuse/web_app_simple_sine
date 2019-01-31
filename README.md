@@ -1,7 +1,7 @@
-# web_app_2nd_order_identification
+# web_app_simple_sine
 
-A simple web application for the frequency analysis of 1st and 2nd order systems. This web app uses csv files for storing the frequency response of 1st and 2nd order systems. This csv files can be generated from the python script in the python folder
+A simple web application for the generation of perfect sine wave signals.
 
 ## Demonstration
 
-* https://vincentchoqueuse.github.io/web_app_2nd_order_identification/index.html
+*  https://vincentchoqueuse.github.io/web_app_simple_sine/
